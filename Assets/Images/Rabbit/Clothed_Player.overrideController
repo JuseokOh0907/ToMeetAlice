@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clothed_Player
+  m_Controller: {fileID: 9100000, guid: a64706dcb0f173d43906dc82dd1af2f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 780b51b7c13f5d4418a49f5f5c2cb64d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5cc86d54d1da6fa4d86399f77a04b8c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c2ceda42c24bdc41bcc6df0540a6781, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f6da862473ebfec4aae5b2ea18dff118, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb8bf2fa42e868c4a9866a83b0efcbf4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e58ba01fade44b041914bcf0abbb21db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf898154f9f81944088a8a775715ab48, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 899252b2498a93a4ca8e706b3e0422f1, type: 2}

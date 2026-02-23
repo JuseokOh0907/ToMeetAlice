@@ -1,0 +1,4 @@
+repository "StupidRabbit/StupidRabbit@14569585160021@cloud"
+  path "/"
+    br "/main"
+    co "/main"
